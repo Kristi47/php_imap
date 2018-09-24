@@ -14,3 +14,6 @@ The following versions of PHP are supported:
 - PHP 5.6
 - PHP 7 (7.0, 7.1, 7.2)
 - Install php imap extension and than restart your server
+
+# Contact
+If you have any suggestion or something is not working correctly, contact at kristimita33@gmail.com
