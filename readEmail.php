@@ -1,9 +1,9 @@
 <?php	
 
 	require("Imap.php");
-        $email_address = "kristimita@protech.com.al";
-	$email_password = "kristimita47";
-	$email_host = "imap.gmail.com";
+        $email_address = "your_email_address";
+	$email_password = "your_email_password";
+	$email_host = "email_hostname"; //imap.gmail.com | outlook.office365.com
 	$port = 993;
 	$protocol = "imap";
 	$ssl = "ssl";
