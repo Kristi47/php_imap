@@ -1,7 +1,7 @@
 <?php	
 
 	require("Imap.php");
-    $email_address = "kristimita@protech.com.al";
+        $email_address = "kristimita@protech.com.al";
 	$email_password = "kristimita47";
 	$email_host = "imap.gmail.com";
 	$port = 993;
